@@ -1,13 +1,13 @@
 <template>
-  <HelloWorld />
+  <CallSampleWebapi />
 </template>
 
 <script>
-import HelloWorld from '../components/HelloWorld';
+import CallSampleWebapi from '../components/CallSampleWebapi';
 
 export default {
   components: {
-    HelloWorld,
+    CallSampleWebapi,
   },
 };
 </script>
